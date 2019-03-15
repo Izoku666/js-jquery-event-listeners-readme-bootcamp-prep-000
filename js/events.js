@@ -29,7 +29,7 @@ function pressIt()
 
 function submitIt()
 {
-  $('form').on('submit' , function()
+  $('form').on('submit' , function()  // tried going for the 'input' directly
   {
     return alert("Your form is going to be submitted now.");
   });
