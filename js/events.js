@@ -27,6 +27,11 @@ function pressIt()
 }
 // event.keydown = g
 
+function submitIt()
+{
+  
+}
+
 $(document).ready(function(){
 
 // call functions here
